@@ -1,0 +1,6 @@
+node_modules
+dist
+.git
+*.log
+auto-imports.d.ts
+components.d.ts
